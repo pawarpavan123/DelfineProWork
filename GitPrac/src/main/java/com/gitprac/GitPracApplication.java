@@ -11,7 +11,7 @@ public class GitPracApplication {
 		SpringApplication.run(GitPracApplication.class, args);
 
 		System.out.println("Application Started");
-		System.out.println("Application great");
+
 
 	}
 
